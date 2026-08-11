@@ -10,46 +10,28 @@ Currently building **Rivora Ecosystem** — a Python web ecosystem exploring HTT
 
 ## 🚀 Current Project
 
-### 🌐 Rivora Ecosystem
+### Rivora Ecosystem
 
-An open-source Python web ecosystem focused on modern web infrastructure.
+I'm currently building the Rivora Ecosystem, an open-source Python web ecosystem focused on modern web protocols.
 
-The goal is to keep servers and frameworks independent through a common communication layer.
+[Rivora Ecosystem](https://github.com/RivoraEcosystem)
 
-### Components
-
-### 🔗 [RCP — Rivora Contract Protocol](https://github.com/code-1py/rcp)
-
-A protocol layer inspired by ASGI that allows compatible servers and frameworks to communicate without depending on each other's internals.
-
-### 🌐 Riven
-
-HTTP/3 server currently under development.
-
-Built using:
-
-`aioquic` · `asyncio` · `uvloop`
-
-### ⚡ Rivora Framework
-
-A framework planned around RCP.
-
-Development journal:
-
-<a href="https://www.reddit.com/r/RivoraEcosystem/">
-📖 r/RivoraEcosystem
-</a>
+- [RCP - Rivora Contract Protocol](https://github.com/RivoraEcosystem/rcp)
+- [Riven - RCP Web Server](https://github.com/RivoraEcosystem/riven)
+- Rivora - Web Framework (in planning)
 
 ---
+
+
 
 # 🛠 Tech Stack
 
 ## Languages & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,kotlin,js,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,js,fastapi" />
 <br>
-<b>Python · Kotlin · JavaScript · FastAPI</b>
+<b>Python · JavaScript · FastAPI</b>
 </a>
 </p>
 
@@ -129,7 +111,6 @@ Includes authentication, MongoDB integration, and admin functionality.
 - Web server architecture
 - Protocol design
 - Web application security
-- Android development with Kotlin
 
 ---
 
