@@ -137,12 +137,6 @@ Includes authentication, MongoDB integration, and admin functionality.
 </a>
 </p>
 
-<p>
-<a href="https://www.reddit.com/r/RivoraEcosystem/">
-<img src="./Reddit_Logo_Icon.png" width="28">
-<b>Rivora Development Journal</b>
-</a>
-</p>
 
 ---
 
